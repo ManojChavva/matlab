@@ -1,0 +1,54 @@
+This is a software that performs mix design of  concrete.
+select type of grade designation M20 , M30 , M40
+Enter grade designation: M30
+select maximum nominal size of aggregate: 10, 20,40
+Enter maximum nominal size of aggregate20
+    20
+
+enter the slump value 100
+slump :100 .
+enter the specific gravity of cement3.15
+    3.1500
+
+enter the specific gravity of water1
+     1
+
+enter the admixture
+enter the specific ADMIXTURE1.145
+    1.1450
+
+enter the specific gravity of coarse aggregate2.75
+    2.7500
+
+enter the specific gravity of fine agggregate2.75
+    2.7500
+
+TARGET STRENGTH FOR MIX PROPORTIONIG
+characteristic_compressive_strength_at_28_days :30 N/mm2.
+standard deviation:  5 
+target strength : 38 N/mm2.
+
+Maximum_water_content =
+
+  297.6000
+
+Maximum water content:297.60 Kg/m3 
+Based on trials with superplasticizer water content reduction of 29 percent has been achieved.
+ Hence, the arrived water content 
+water content:  211 Kg/m3 
+water cement ratio: 0.40 
+cement content:  528 Kg/m3 
+PROPORTION OF VOLUME OF COARSE AGGREGATE AND FINE AGGREGATE CONTENT
+for zone1
+volume of coarse_aggregate: 0.60 
+ volume of fine aggregate: 0.40 
+mix calculations
+ volume of concrete: 1.00 m3
+volume of cement: 0.167695 m3 
+ volume of water: 0.211296 m3 
+mass of chemical admixture: 0.00004 kg 
+ volume of admixture: 0.00000003307 m3 
+Volume of all in aggregate:0.621 m3 
+Mass of coarse aggregate:1650.0000 m3 
+Mass of fine aggregate:1100.0000 m3 
+>> 
